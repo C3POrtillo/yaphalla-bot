@@ -1,1 +1,3 @@
 # yaphalla-bot
+
+TODO: Everything
